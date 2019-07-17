@@ -1,7 +1,7 @@
 # Load packages
 library(shiny)
+library(dplyr)
 library(ggplot2)
-library(tidyverse)
 library(DT)
 
 # Load data
