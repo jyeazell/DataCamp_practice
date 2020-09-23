@@ -1,0 +1,21 @@
+---
+title: "Untitled"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Column {data-width=1000}
+-----------------------------------------------------------------------
+
+### Chart A
+
+Built with ![](https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png).
+
+
+Built with ![](www/shiny.png) and ![](www/RStudio.png) by ![](/www/jgy_hex_50.png).
